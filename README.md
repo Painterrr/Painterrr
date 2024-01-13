@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+* github profile 꾸미기, 마크다운
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=tttzkq)](https://solved.ac/tttzkq)
+
 <!--
 **Painterrr/Painterrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
