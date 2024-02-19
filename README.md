@@ -4,9 +4,15 @@
 
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
 
+<br/><br/>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<br/><br/>
+
 ### 🙇 안녕하세요, 백엔드 개발자로 성장해나가고 있는 권성준입니다!
+
+<br/><br/>
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
@@ -31,6 +37,8 @@
 ![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+
+<br/><br/>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=tttzkq)](https://solved.ac/tttzkq)
