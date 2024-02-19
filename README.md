@@ -46,7 +46,8 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
 <br/><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Painterrr&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Painterrr&layout=compact)</br>
+[![Painterrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Painterrr)](https://github.com/anuraghazra/github-readme-stats)</br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=tttzkq)](https://solved.ac/tttzkq)
 
 </div> 
