@@ -2,7 +2,7 @@
 
 <!-- Header -->
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=%20Painterrr's%20GitHub!&fontAlign=40&fontAlignY=40&text-align:center&color=gradient)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=%20Painterrr's%20GitHub!&fontAlign=40&fontAlignY=40&text-align=center&color=gradient)
 &text-align: left
 <br/><br/>
 
