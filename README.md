@@ -33,7 +33,6 @@
 
 **🛠️ Infra and Tools**
 </br>
-![springboot](https://img.shields.io/springboot/java-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
