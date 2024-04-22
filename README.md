@@ -48,6 +48,7 @@
 <br/><br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Painterrr&layout=compact)</br>
 [![Painterrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Painterrr)](https://github.com/anuraghazra/github-readme-stats)</br>
+[![Painterrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명)&hide=stars,contribs&count_private=true</br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=tttzkq)](https://solved.ac/tttzkq)
 
 </div> 
