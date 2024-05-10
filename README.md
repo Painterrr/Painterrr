@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-### Experience
+### Education
 우리 FISA 2023.11.20 - 2024.05.14
 
 <br/><br/>
